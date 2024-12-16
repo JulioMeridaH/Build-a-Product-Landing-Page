@@ -1,0 +1,10 @@
+@media (max-width: 1000px) {
+
+}
+body {
+    display: flex;
+}
+header {
+    position: fixed;
+    top: 0px;
+  }
